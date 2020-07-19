@@ -1,0 +1,13 @@
+2020-07-19 21:23:42 DEBUG App:54 - Enter size of array
+2020-07-19 21:23:45 DEBUG App:57 - Enter elements 
+2020-07-19 21:23:49 DEBUG App:61 - Average is
+2020-07-19 21:23:49 DEBUG App:62 - 25.25
+2020-07-19 21:23:49 DEBUG App:63 - Number of words
+2020-07-19 21:23:52 DEBUG App:66 - Enter the words
+2020-07-19 21:23:59 DEBUG App:75 - List of words starts with a and having length 3 
+2020-07-19 21:23:59 DEBUG App:77 - ant
+2020-07-19 21:23:59 DEBUG App:80 - Enter the Number of words
+2020-07-19 21:24:01 DEBUG App:84 - Enter the words
+2020-07-19 21:24:08 DEBUG App:94 - List of Pallindrome words
+2020-07-19 21:24:08 DEBUG App:96 - aaaa
+2020-07-19 21:24:08 DEBUG App:96 - abba
